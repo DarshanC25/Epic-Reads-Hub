@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:544c1a5577fc11e35d6f77be2386e8ad78ad3417863a6c357f08801ead75e07b
-size 331
+# Epic Reads Hub
+
+The Epic Reads Hub is a platform dedicated to cultivating a community for book enthusiasts, providing a space for readers to discover, share, and discuss their favorite literary works. This initiative was developed with the goal of offering users a seamless and engaging interface to explore book recommendations, connect with like-minded individuals, and participate in community-driven events such as book clubs and reading challenges.
+
+
+
+
+For user
+    --> Register first to login
+
+For Admin
+    --> UserID : admin, PASSWORD : admin
+       (incase to view admin console)
+         
+  
